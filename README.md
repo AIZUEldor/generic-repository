@@ -31,7 +31,7 @@ C# Console ilova. 4 ta model (Student, Teacher, Subject, School) uchun Generic R
 1. Reponi clone qiling
 2. `GenericRepository.sln` ni oching
 3. Run (F5)
- ![Demo](demo2.gif)
+ ![Demo](demo3.gif)
 
 
 
